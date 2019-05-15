@@ -183,4 +183,9 @@ hr {
   .mountain {
     width: 80%;
   }
+  .bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 220px;
+  }
 }
